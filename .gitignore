@@ -1,0 +1,17 @@
+# Binaries
+bin/
+*.exe
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Env / local config
+.env
+*.local
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
